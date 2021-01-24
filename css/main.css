@@ -1,0 +1,19 @@
+tr,td{
+	border:1px solid #ffffff;
+	padding: 10px;
+}
+body{
+	color: #ffffff;
+	background-color: red;
+}
+table{
+	border-collapse: collapse;
+}
+#row1{
+	position: relative;
+	margin-left: 200px;
+	top: 25px;
+}
+.main{
+
+}
